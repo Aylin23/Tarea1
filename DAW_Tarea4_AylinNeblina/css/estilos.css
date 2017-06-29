@@ -1,0 +1,55 @@
+
+    img{
+	width: 200px;
+	height: 200px;
+	}
+	
+	header{
+		background: gray;
+		margin:auto;
+		width: 1350px;
+		
+	}
+	
+	a{
+		padding: 10px  10px 10px 10px;
+		font-family: Sans-serif;
+		text-decoration: none;color:white;
+		margin-left: 30px;
+
+	}
+	h1{
+		font-family:Sans-serif;
+		text-align: center;
+		color: #067655;
+
+
+	}
+	h2{
+		font-family: Sans-serif;
+		text-align: center;
+		 
+	}
+	td{
+		font-family: Sans-serif;
+	}
+	
+	#informacion{
+		margin: auto;
+	}
+	
+	#pagina{
+		margin:auto;
+		width:1350px;
+		height: 1200px;
+	}
+	form{
+		padding: 20px 10px 20px 10px;
+		text-align: center;
+	}
+	#registro{
+		background: #067655;
+		font-style: Sans-serif;
+		color: white;
+		border-radius: 20px
+	}
